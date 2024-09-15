@@ -1,0 +1,12 @@
+Name: madusha
+Password: 123
+DOB: 2002.10.10
+Address: minuwangoda
+Number: 0112294748
+-------------------------------------
+Name: Madusha Nadiranga
+Password: 123
+DOB: 2002.10.10
+Address: Minuwangoda
+Number: 0112294748
+-------------------------------------

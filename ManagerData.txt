@@ -1,0 +1,12 @@
+Name: Madusha Nadiranga
+Password: 123
+DOB: 2002.10.10
+Address: Minuwangoda
+Number: 0112294748
+-------------------------------------
+Name: Pranith Srimal
+Password: 123456
+DOB: 1996.10.10
+Address: Gampaha
+Number: 0112294748
+-------------------------------------

@@ -1,0 +1,18 @@
+1, Before Midnight, Oliver Sinze, Romance, 2005, 1500 
+2, To Kill a Mockingbird , Harper Lee, Fiction, 1960, 2000
+3, 1984, George Orwell, Dystopian Fiction, 1960, 1500
+4, The Catcher in The Rye, Salinger, Fiction, 1951, 1000
+2, Pride and Prejudice, Jane Austen, Romance, 1813, 2700
+3, The Da Vinci Code, Dan Brown, Mystery, 2003, 3000
+4, The Alchemist, Paulo Coelho, Mystery, 1988, 2000
+5, The Rode, Cormac McCarthy, Fiction, 2006, 2500
+6, Gone Girl, Gillian flynn, Mystery, 2012, 2800
+7, The Girl On The Train, Paula Hawkins, Mystery, 2015, 3000
+8, The Martian, Andy Weir, Fiction, 2011, 2000
+9, Educated, Tara Westover, Memoir, 2018, 1000
+10, Becoming, Michelle Obama, Autobiography, 2018, 5000
+11, The Power Of Habit, Charles Duhigg, Self-Help, 2012, 1000
+12, Harry Potter The Prisoner of Azkaban, Rowling, Fantasy, 1999, 3500
+13, Harry Potter The Goblet Fire, Rowling, Fantasy, 2000, 3500
+14, Harry Potter The Older of the Phoenix, Rowling, Fantasy, 2003, 3500
+15, Harry Potter The Half Blood Prince, Rowling, Fantasy, 2005, 3500
